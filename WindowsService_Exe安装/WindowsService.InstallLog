@@ -1,0 +1,65 @@
+﻿正在安装程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在安装服务 zcc3713_Service...
+已成功安装服务 zcc3713_Service。
+正在日志 Application 中创建 EventLog 源 zcc3713_Service...
+查看日志文件的内容以获得 E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe 程序集的进度。
+该文件位于 E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog。
+正在提交程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在卸载程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在移除 EventLog 源 zcc3713_Service。
+正在从系统中移除服务 zcc3713_Service...
+已成功地从系统中移除服务 zcc3713_Service。
+正在安装程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在安装服务 Windows_Service...
+已成功安装服务 Windows_Service。
+正在日志 Application 中创建 EventLog 源 Windows_Service...
+查看日志文件的内容以获得 E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe 程序集的进度。
+该文件位于 E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog。
+正在提交程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在卸载程序集“E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe\WindowsService.InstallLog
+正在移除 EventLog 源 Windows_Service。
+正在从系统中移除服务 Windows_Service...
+已成功地从系统中移除服务 Windows_Service。
+试图停止服务 Windows_Service。
+正在安装程序集“E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.InstallLog
+正在安装服务 Windows_Service...
+已成功安装服务 Windows_Service。
+正在日志 Application 中创建 EventLog 源 Windows_Service...
+查看日志文件的内容以获得 E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe 程序集的进度。
+该文件位于 E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.InstallLog。
+正在提交程序集“E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.InstallLog
+正在卸载程序集“E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe”。
+受影响的参数是:
+   assemblypath = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.exe
+   logfile = E:\测试\WindowsService\WindowsService_Exe安装\WindowsService.InstallLog
+正在移除 EventLog 源 Windows_Service。
+正在从系统中移除服务 Windows_Service...
+已成功地从系统中移除服务 Windows_Service。
+试图停止服务 Windows_Service。

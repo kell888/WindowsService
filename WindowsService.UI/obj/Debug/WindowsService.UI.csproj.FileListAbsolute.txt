@@ -1,0 +1,10 @@
+E:\测试\WindowsService\WindowsService.UI\bin\Debug\WindowsService.UI.exe
+E:\测试\WindowsService\WindowsService.UI\bin\Debug\WindowsService.UI.pdb
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\ResolveAssemblyReference.cache
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.Properties.Resources.resources
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.csproj.GenerateResource.Cache
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.exe
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.pdb
+E:\测试\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.Form_ServiceUI.resources
+F:\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.exe
+F:\WindowsService\WindowsService.UI\obj\Debug\WindowsService.UI.pdb

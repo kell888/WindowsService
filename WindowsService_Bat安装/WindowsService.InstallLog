@@ -1,0 +1,22 @@
+﻿正在安装程序集“E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.InstallLog
+   assemblypath = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe
+正在安装服务 Windows_Service...
+已成功安装服务 Windows_Service。
+正在日志 Application 中创建 EventLog 源 Windows_Service...
+正在提交程序集“E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.InstallLog
+   assemblypath = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe
+正在卸载程序集“E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.InstallLog
+   assemblypath = E:\测试\WindowsService\WindowsService_Bat安装\WindowsService.exe
+正在移除 EventLog 源 Windows_Service。
+正在从系统中移除服务 Windows_Service...
+已成功地从系统中移除服务 Windows_Service。
+尝试停止服务 Windows_Service。

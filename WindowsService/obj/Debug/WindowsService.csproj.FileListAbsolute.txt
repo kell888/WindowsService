@@ -1,0 +1,8 @@
+E:\测试\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+E:\测试\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+E:\测试\WindowsService\WindowsService\obj\Debug\ResolveAssemblyReference.cache
+E:\测试\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+E:\测试\WindowsService\WindowsService\obj\Debug\WindowsService.Service1.resources
+E:\测试\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.Cache
+E:\测试\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+E:\测试\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
